@@ -1,8 +1,9 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1791475641
+::res://::1791814854
 default_bus_layout.tres::AudioBusLayout::6564268947468103023::1771685366::0::1::::<><><>0<>0<><>::
 icon.png::CompressedTexture2D::15047351210411190::1771685366::1791391335::1::::<><><>0<>0<>1b715dbefff322edf369d96dc8dd5e44<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
-player.tscn::PackedScene::6636363802798909755::1791391845::0::1::::<><><>0<>0<><>::uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn
+player.gd::GDScript::1700623032726953666::1791477234::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::6636363802798909755::1791477234::0::1::::<><><>0<>0<><>::uid://pbmyh1qru7p::::res://characters/happy_boo/happy_boo.tscn<>uid://yh2ao5or56lq::::res://player.gd
 ::res://addons/::1771685366
 ::res://addons/colorpicker_presets/::1771685366
 colorpicker_presets.gd::GDScript::2597531570939366545::1771685366::0::1::::<>EditorPlugin<><>0<>1<><>::
